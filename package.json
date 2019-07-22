@@ -20,8 +20,8 @@
     "@angular/platform-browser": "~7.0.0",
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
-    "@syncfusion/ej2": "^17.1.44",
-    "@syncfusion/ej2-angular-filemanager": "^17.1.42",
+    "@syncfusion/ej2": "*",
+    "@syncfusion/ej2-angular-filemanager": "*",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.26"
